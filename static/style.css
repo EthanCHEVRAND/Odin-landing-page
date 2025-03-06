@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+* {
+    font-family: Roboto, sans-serif;
+}
+
+header {
+    background-color: #1F2937;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.header_top>span {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header-info>p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+nav>a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.call_to_action>div {
+    background-color: #3882F6;
+}
+
+footer {
+    background-color: #1F2937;
+}
