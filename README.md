@@ -4,4 +4,5 @@
 This project is based on HTML and CSS. 
 
 ## Link
-(to be published)
+https://ethanchevrand.github.io/Odin-landing-page/
+
